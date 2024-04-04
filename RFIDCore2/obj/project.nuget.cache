@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFco07p3Jgm9UnI8MS7DemwuOd4I4ewxpowaEEc9zn6ZorTh2mTJ4tTCDKYMv5VUOJ8+1lBhAU0IXZmDvDXZOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Documents\\WindowsPowerShell\\RFID1\\RFIDCore2\\RFIDCore2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
